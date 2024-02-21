@@ -1,0 +1,11 @@
+{
+    "name": "Live Cricket match Chrome Extension",
+    "version": "1.0.0",
+    "description": "Live Cricket matches to be shown here",
+    "manifest_version": 3,
+    "author": "Mahendra Pratap Singh",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "live-crick Extension"
+    }
+}
